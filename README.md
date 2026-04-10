@@ -53,8 +53,8 @@ The app features a dark-mode dashboard with four main sections:
 
 ```bash
 # Clone the repository
-git clone https://github.com/RPLogic-Inc/Tarin-AI.git
-cd Tarin-AI
+git clone https://github.com/RPLogic-Inc/Train-AI.git
+cd Train-AI
 
 # Install dependencies
 pnpm install
